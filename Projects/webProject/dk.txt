@@ -1,0 +1,25 @@
+github repo url:https://github.com/CharbelDaher34/agfzb-CloudAppDevelopment_Capstone/actions
+get-dealership endpoint: http://localhost:3000/api/dealerships/get
+get-reviews endpoint: http://localhost:5000/api/get_reviews
+post_reviews endpint: http://localhost:5000/api/post_reviews
+cloudant databse credentials:
+{
+  "apikey": "W14paPkeXAxfg0CZNV9eQKDleuONZJkJSeIwYmIgpywH",
+  "host": "63cb4743-95f3-4f28-8243-8360fb50c33c-bluemix.cloudantnosqldb.appdomain.cloud",
+  "iam_apikey_description": "Auto-generated for key crn:v1:bluemix:public:cloudantnosqldb:eu-gb:a/390e3bd2cd564d3293c7921c4c83576d:d95a0b6a-b5d1-4148-b96a-60ba3736d8e1:resource-key:f58c600c-cadd-4fa8-9274-279e546cad42",
+  "iam_apikey_name": "Service credentials-1",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/390e3bd2cd564d3293c7921c4c83576d::serviceid:ServiceId-c0dda468-3d6c-4102-9ca6-3d7f910dd331",
+  "url": "https://63cb4743-95f3-4f28-8243-8360fb50c33c-bluemix.cloudantnosqldb.appdomain.cloud",
+  "username": "63cb4743-95f3-4f28-8243-8360fb50c33c-bluemix"
+}
+
+
+watson:
+{
+  "apikey": "GbK-5AmEqvuwFH2lse2UolKVy74kf62_59-zEUYN7rqA",
+  "iam_apikey_description": "Auto-generated for key crn:v1:bluemix:public:natural-language-understanding:au-syd:a/390e3bd2cd564d3293c7921c4c83576d:90e4025a-808e-4d86-ab99-cf4fda18601a:resource-key:fb8d2b0d-1ed9-42cb-a344-2f344f711892",
+  "iam_apikey_name": "sentiment",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/390e3bd2cd564d3293c7921c4c83576d::serviceid:ServiceId-1849fc6c-2996-4f52-9e9b-b17dfacc162e",
+  "url": "https://api.au-syd.natural-language-understanding.watson.cloud.ibm.com/instances/90e4025a-808e-4d86-ab99-cf4fda18601a"
+}
